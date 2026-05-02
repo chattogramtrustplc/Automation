@@ -1,6 +1,0 @@
-certificateNumber,studentName,courseName,completionDate,grade,isValid
-CT-2026-PLC-50001,Mohammad Rahim Uddin,Mitsubishi PLC Programming,2026-01-15,A+,true
-CT-2026-SCADA-50002,Fatima Khatun,Siemens SCADA Advanced,2026-01-20,A,true
-CT-2026-VFD-50003,Abdul Karim,VFD & HMI Comprehensive,2026-01-25,A+,true
-CT-2026-DIP-50004,Rahima Begum,Diploma Industrial Attachment,2026-02-01,A,true
-CT-2026-PLC-50005,Md. Ashraful Islam,Omron PLC Basics,2026-02-05,B+,true
